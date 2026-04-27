@@ -1,7 +1,7 @@
 # Program tabel perkalian dengan validasi nama
 
 # input nama
-nama_benar = "duyas"  # ganti dengan nama pendek kamu
+nama_benar = "Hasbih"  # ganti dengan nama pendek kamu
 nama = input("Masukkan nama anda: ")
 
 if nama == nama_benar:
